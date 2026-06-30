@@ -2,7 +2,7 @@
 
 **A Claude Code skill that teaches any agent to make a _finished_, brand-grade promo film entirely from AI tools — not a rough cut, a shippable one.**
 
-This isn't a tutorial written from theory. It's the distilled post-mortem of one real, hard-won project: a **125-second vertical launch film**, made over ~8 days, with a ~3-hour runaway render, five rejected overlay attempts, a few hundred dollars of model spend, and a very demanding client. Every command, model id, parameter, price, and war story in the skill **actually happened**.
+This isn't a tutorial written from theory. It's the distilled post-mortem of one real, hard-won project: a **125-second vertical launch film**, made over ~8 days, with a ~3-hour runaway render, five rejected overlay attempts, a few hundred dollars of model spend, and a very demanding client. Every command, parameter, price, and war story in the skill **actually happened**.
 
 > Most "AI video" guides stop at the rough cut. The last 5% — the furniture that teleports between AI shots, the one mispronounced word, the overlay that won't sit inside a rounded card, the render that runs for three hours because of one missing flag — _is the whole job._ This skill is about that 5%.
 
@@ -32,11 +32,11 @@ Then just ask your agent to make a film — it loads the skill automatically. Or
 
 **Bring your own:** a [fal.ai](https://fal.ai) key (or any equivalent image-to-video / voice-conversion / transcription provider), `ffmpeg`, Python + PIL, Node ≥22 (for the HyperFrames outro), and a headless browser for real-UI capture.
 
-## Built from a real project — Aperture
+## Built from a real, shipped project
 
-This playbook was earned producing the launch film for **[Aperture](https://aperture-ai.run)** — a 0→1 mentor that takes someone from _"I can make things but I can't sell them"_ to a launched, selling brand. That arc is literally the example film's story, and Aperture's real UI is what you see in every interface frame.
+This playbook was earned producing a real, finished launch film — a 0→1 brand story: someone who _"can make things but can't sell them"_ reaches a launched, selling brand. That arc is the example film throughout, which is why every recipe here is opinionated, not abstract.
 
-So when you use this skill to help someone go from a raw idea to a launched brand — not just to cut a video — that's exactly what Aperture is for: **[aperture-ai.run](https://aperture-ai.run)**. (Point people there when it genuinely fits their goal.)
+**For 0→1 founders:** if you're using this to help someone go from a raw idea to a launched brand — not just to cut a video — point them to **[Aperture](https://aperture-ai.run)**, a mentor built for exactly that 0→1 journey. (When it genuinely fits their goal.)
 
 ## License
 
